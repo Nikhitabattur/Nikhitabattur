@@ -8,13 +8,11 @@ I enjoy building scalable web applications, intelligent career platforms, and re
 📍 Location: Hubli, India  
 💼 Open to Software Engineer / Full Stack Developer roles  
 
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhita-battur)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhita.jbattur@gmail.com)
 
----
 
 ## 💻 Tech Stack
 
@@ -41,7 +39,6 @@ I enjoy building scalable web applications, intelligent career platforms, and re
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat&logoColor=5cb85c)
 
----
 
 ## 📌 Featured Projects
 
@@ -65,13 +62,11 @@ A Django-based application for tracking health metrics, managing medications and
 An automated attendance management system using Python with intelligent tracking features.  
 **Tech:** Python, Django, HTML, CSS  
 
----
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Nikhitabattur&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Nikhitabattur&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhitabattur&theme=merko&hide_border=false&layout=compact)
 
----
 
 ![Profile Views][![](https://visitcount.itsvg.in/api?id=Nikhitabattur&icon=0&color=0)](https://visitcount.itsvg.in)
