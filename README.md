@@ -74,4 +74,4 @@ An automated attendance management system using Python with intelligent tracking
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Nikhitabattur&icon=0&color=0)
+![Profile Views][![](https://visitcount.itsvg.in/api?id=Nikhitabattur&icon=0&color=0)](https://visitcount.itsvg.in)
